@@ -1,0 +1,15 @@
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Modelos/bin/Debug/net7.0/E-Commerce.Modelos.deps.json
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Modelos/bin/Debug/net7.0/E-Commerce.Modelos.dll
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Modelos/bin/Debug/net7.0/E-Commerce.Modelos.pdb
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Modelos/bin/Debug/net7.0/E-Commerce.Utilidades.dll
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Modelos/bin/Debug/net7.0/E-Commerce.Utilidades.pdb
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Modelos/obj/Debug/net7.0/E-Commerce.Modelos.csproj.AssemblyReference.cache
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Modelos/obj/Debug/net7.0/E-Commerce.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Modelos/obj/Debug/net7.0/E-Commerce.Modelos.AssemblyInfoInputs.cache
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Modelos/obj/Debug/net7.0/E-Commerce.Modelos.AssemblyInfo.cs
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Modelos/obj/Debug/net7.0/E-Commerce.Modelos.csproj.CoreCompileInputs.cache
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Modelos/obj/Debug/net7.0/E-Commerce.Modelos.csproj.CopyComplete
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Modelos/obj/Debug/net7.0/E-Commerce.Modelos.dll
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Modelos/obj/Debug/net7.0/refint/E-Commerce.Modelos.dll
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Modelos/obj/Debug/net7.0/E-Commerce.Modelos.pdb
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Modelos/obj/Debug/net7.0/ref/E-Commerce.Modelos.dll

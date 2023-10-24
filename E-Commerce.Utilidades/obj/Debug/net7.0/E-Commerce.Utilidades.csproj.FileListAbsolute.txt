@@ -1,0 +1,12 @@
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Utilidades/bin/Debug/net7.0/E-Commerce.Utilidades.deps.json
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Utilidades/bin/Debug/net7.0/E-Commerce.Utilidades.dll
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Utilidades/bin/Debug/net7.0/E-Commerce.Utilidades.pdb
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Utilidades/obj/Debug/net7.0/E-Commerce.Utilidades.csproj.AssemblyReference.cache
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Utilidades/obj/Debug/net7.0/E-Commerce.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Utilidades/obj/Debug/net7.0/E-Commerce.Utilidades.AssemblyInfoInputs.cache
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Utilidades/obj/Debug/net7.0/E-Commerce.Utilidades.AssemblyInfo.cs
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Utilidades/obj/Debug/net7.0/E-Commerce.Utilidades.csproj.CoreCompileInputs.cache
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Utilidades/obj/Debug/net7.0/E-Commerce.Utilidades.dll
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Utilidades/obj/Debug/net7.0/refint/E-Commerce.Utilidades.dll
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Utilidades/obj/Debug/net7.0/E-Commerce.Utilidades.pdb
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.Utilidades/obj/Debug/net7.0/ref/E-Commerce.Utilidades.dll

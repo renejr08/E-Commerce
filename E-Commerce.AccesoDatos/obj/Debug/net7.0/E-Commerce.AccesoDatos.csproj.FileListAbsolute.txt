@@ -1,0 +1,17 @@
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.AccesoDatos/bin/Debug/net7.0/E-Commerce.AccesoDatos.deps.json
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.AccesoDatos/bin/Debug/net7.0/E-Commerce.AccesoDatos.dll
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.AccesoDatos/bin/Debug/net7.0/E-Commerce.AccesoDatos.pdb
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.AccesoDatos/bin/Debug/net7.0/E-Commerce.Modelos.dll
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.AccesoDatos/bin/Debug/net7.0/E-Commerce.Utilidades.dll
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.AccesoDatos/bin/Debug/net7.0/E-Commerce.Modelos.pdb
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.AccesoDatos/bin/Debug/net7.0/E-Commerce.Utilidades.pdb
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.AccesoDatos/obj/Debug/net7.0/E-Commerce.AccesoDatos.csproj.AssemblyReference.cache
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.AccesoDatos/obj/Debug/net7.0/E-Commerce.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.AccesoDatos/obj/Debug/net7.0/E-Commerce.AccesoDatos.AssemblyInfoInputs.cache
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.AccesoDatos/obj/Debug/net7.0/E-Commerce.AccesoDatos.AssemblyInfo.cs
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.AccesoDatos/obj/Debug/net7.0/E-Commerce.AccesoDatos.csproj.CoreCompileInputs.cache
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.AccesoDatos/obj/Debug/net7.0/E-Commerce.AccesoDatos.csproj.CopyComplete
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.AccesoDatos/obj/Debug/net7.0/E-Commerce.AccesoDatos.dll
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.AccesoDatos/obj/Debug/net7.0/refint/E-Commerce.AccesoDatos.dll
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.AccesoDatos/obj/Debug/net7.0/E-Commerce.AccesoDatos.pdb
+/Users/rsanchez/Projects/E-Commerce/E-Commerce.AccesoDatos/obj/Debug/net7.0/ref/E-Commerce.AccesoDatos.dll

@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{DA45E8BE-6AEE-40A5-A226-91F6B69E7FD8}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.E-Commerce.Modelos FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.E-Commerce.AccesoDatos FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.E-Commerce PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.E-Commerce.Utilidades FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="E-Commerce.Modelos/ViewModels/ErrorViewModel.cs">
+    <Files>
+      <File FileName="E-Commerce/Program.cs" Line="15" Column="72" />
+      <File FileName="E-Commerce/Views/Home/Index.cshtml" Line="6" Column="24" />
+      <File FileName="E-Commerce.AccesoDatos/Data/ApplicationDbContext.cs" Line="12" Column="2" />
+      <File FileName="E-Commerce.Modelos/ErrorViewModel.cs" Line="1" Column="40" />
+      <File FileName="E-Commerce.Utilidades/DS.cs" Line="5" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="E-Commerce" expanded="True">
+            <Node name="E-Commerce" expanded="True" />
+            <Node name="E-Commerce.AccesoDatos" expanded="True" selected="True">
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="E-Commerce.Modelos" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="E-Commerce.Utilidades" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
